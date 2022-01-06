@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on several of my own projects involving automation, robot control, and webscraping.
-- 🌱 I’m currently learning more advanced neural networks for use in automation.
+- 🌱 I’m currently learning more advanced neural networks for use in automation and robotics.
 
 - 📫 How to reach me: mdelabastide.hba2023@ivey.ca
 - 😄 Pronouns: He/him
