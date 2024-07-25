@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning more advanced neural networks for use in automation and robotics.
 
 - 📫 How to reach me: mdelabastide.hba2023@ivey.ca
-- 😄 Pronouns: He/him
 
 - ⚡ Why did the programmer quite his job? Because he didn't get arrays :(
 
@@ -17,7 +16,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more advanced neural networks for use in automation.
 
 - 📫 How to reach me: mdelabastide.hba2023@ivey.ca
-- 😄 Pronouns: He/him
 
 - ⚡ Why did the programmer quite his job? Because he didn't get arrays :(
 
